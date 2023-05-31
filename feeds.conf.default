@@ -13,3 +13,4 @@ src-git istore https://github.com/linkease/istore.git
 src-git clash https://github.com/frainzy1477/luci-app-clash.git
 src-git jerryk https://github.com/jerrykuku/openwrt-package.git
 src-git clone https://github.com/kenzok8/small-package.git
+src-git kenzok https://github.com/kenzok8/openwrt-packages.git
