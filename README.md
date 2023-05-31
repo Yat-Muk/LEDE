@@ -2,14 +2,6 @@
 
 如何编译自己需要的 LEDE 固件 [How to build your LEDE firmware](./README_EN.md)
 
-## 官方讨论群
-如有技术问题需要讨论或者交流，欢迎加入以下群：
-1. QQ 讨论群： Op固件技术研究群 ,号码 891659613 ，加群链接：[点击加入](https://jq.qq.com/?_wv=1027&k=XL8SK5aC "Op固件技术研究群")
-2. TG 讨论群： OP 编译官方大群 ，加群链接：[点击加入](https://t.me/JhKgAA6Hx1 "OP 编译官方大群")
-3. Rockchip RK3568 预编译固件发布 Release 下载更新地址 (包括 H68K )：<https://github.com/coolsnowwolf/lede/releases/tag/20220716>
-
-<a href ="https://item.taobao.com/item.htm?spm=a230r.1.14.11.4bb55247rdHEAP&id=702787603594&ns=1&abbucket=17#detail
-"><img src="https://github.com/coolsnowwolf/lede/blob/master/doc/h68k.jpg?raw=true" width=600  /></a>
 
 ## 注意
 
@@ -129,19 +121,3 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 3. QCA IPQ60xx 开源仓库地址：<https://github.com/coolsnowwolf/openwrt-gl-ax1800>
 
 4. 存档版本仓库地址：<https://github.com/coolsnowwolf/openwrt>
-
-## 软路由介绍
-
-iKOOLCORE 硬酷R1 多网口小主机 - N5105/N6005 : Cube box, rest fun. 方寸之间，尽享乐趣
-
-(商品介绍页面 - 硬酷科技（支持花呗）)：
-[优惠券链接](https://taoquan.taobao.com/coupon/unify_apply.htm?sellerId=2208215115814&activityId=85fbaf791c4b45e9aaf5ec8e3d1cb2a9)
-[下单链接](https://item.taobao.com/item.htm?ft=t&id=682987219699)
-
-[![r1](doc/r1.jpg)](https://item.taobao.com/item.htm?ft=t&id=682025492099)
-
-## 捐贈
-
-如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
-
- ![star](doc/star.png)
