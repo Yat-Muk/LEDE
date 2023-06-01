@@ -17,6 +17,9 @@ on:
   #   - cron: 0 20 * * *
   # release:
   #   types: [published]
+  
+permissions:
+  contents: write
 
 jobs:
 
